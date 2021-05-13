@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "mode_match(kmp)": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

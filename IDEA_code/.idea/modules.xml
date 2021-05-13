@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/1269/1269.iml" filepath="$PROJECT_DIR$/LeetCode/1269/1269.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractedClasses/abstractedClasses.iml" filepath="$PROJECT_DIR$/abstractedClasses/abstractedClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calendarTry/calendarTry.iml" filepath="$PROJECT_DIR$/calendarTry/calendarTry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/experience1_Library/experience1_Library.iml" filepath="$PROJECT_DIR$/experience1_Library/experience1_Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/experience2_petManagement/experience2_petManagement.iml" filepath="$PROJECT_DIR$/experience2_petManagement/experience2_petManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework3_Time/homework3_Time.iml" filepath="$PROJECT_DIR$/homework3_Time/homework3_Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework4_Inheritance/homework4_Inheritance.iml" filepath="$PROJECT_DIR$/homework4_Inheritance/homework4_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework5_Interface/homework5_Interface.iml" filepath="$PROJECT_DIR$/homework5_Interface/homework5_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mode_match(KMP)/mode_match(KMP).iml" filepath="$PROJECT_DIR$/mode_match(KMP)/mode_match(KMP).iml" />
+      <module fileurl="file://$PROJECT_DIR$/retirement/retirement.iml" filepath="$PROJECT_DIR$/retirement/retirement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student_management/student_management.iml" filepath="$PROJECT_DIR$/student_management/student_management.iml" />
+    </modules>
+  </component>
+</project>
