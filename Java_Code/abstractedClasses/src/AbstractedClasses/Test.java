@@ -3,7 +3,6 @@ package AbstractedClasses;
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		var people=new Person[2];
 		
 		people[0]=new Employee("Harry Hacker", 50000, 1989, 10, 1);

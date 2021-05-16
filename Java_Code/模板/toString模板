@@ -1,0 +1,16 @@
+//以 Employee 类和 Manager 类 (Manager extends Employee) 为例
+
+public String toString() {          //Employee
+    return getClass().getName()
+        + "[name=" + name
+        + ",salary=" + salary
+        + ",hireDay=" + hireDay
+        + "]";
+}
+
+@override
+public String toString() {          //Manager
+    return super.toString()
+        + "[bonus=" + bonus
+        + "]";
+}

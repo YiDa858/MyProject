@@ -1,0 +1,15 @@
+//以 Employee 类为例
+
+public int hashCode() {
+    //方法1
+    return 7 *Objects.hashCode(name)
+        + 11 * Double.hashCode(salary)
+        + 13 * Objects.hashCode(hireDay);
+
+    //方法2
+    return Objects.hash(name, salary, hireDay);
+}
+
+/*
+equals 与 hashCode 的定义必须相容：如果x.equals(y) 饭hi true，那么 x.hashCode() 就必须与 y.hashCode() 返回相同的值。
+*/

@@ -1,0 +1,23 @@
+public boolean equals(Object otherObject){
+    //检测this与otherObject是否相等
+    if(this == otherObject) return true;
+
+    //检测otherObject是否为null
+    if(otherObject == null) return false;
+
+    //比较this与otherObject的类
+    if(getClass() != otherObject.getClass()) return false;
+    if(!(otherObject instanceof ClassName)) return false;
+
+    //将otherObject强制转换为相应类类型的变量
+    ClassName other = (ClassName) otherObject;
+
+    //根据相等性概念的要求来比较字段。使用==比较基本类型字段，使用Object.equals比较对象字段。
+    return field1 == other.field1 && Object.equals(field2,other.field2) && ... ;
+}
+
+/*
+如果在子类中重新定义equals，就要在其中包含一个super.equals(other)调用
+
+对于数组类型的字段，可以使用静态的Arrays.equals方法检测相应的数组元素是否相等
+*/
